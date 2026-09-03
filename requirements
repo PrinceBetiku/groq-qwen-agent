@@ -1,0 +1,6 @@
+Tools you are going to need to build this:
+
+groq
+python-dotenv
+requests
+beautifulsoup4
