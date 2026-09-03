@@ -23,11 +23,7 @@ groq-qwen-agent/
 ├── requirements.txt        # Exact software dependencies
 │
 └── src/
-    ├── __init__.py         # Defines src as an importable module
-    ├── main.py             # CLI Entrypoint for interactive chatting
-    ├── agent.py            # Primary agent loop managing prompts and states
-    ├── tools.py            # Web scraping and calculation functions
-    └── config.py           # Validates and loads environment configurations
+    ├── main.py             # Everything runs from here!
 ```
 
 ## 🛠️ Installation & Setup
