@@ -1,3 +1,5 @@
+#UPDATED CODE WITH NEW FEATURES, SUCH AS CALCULATIONS AND WEB SEARCH
+
 import os
 from html.parser import HTMLParser
 from urllib.parse import quote_plus
